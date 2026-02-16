@@ -4,11 +4,11 @@ import time
 
 import os
 
-inpt = input("Enter youtube url: ")
+inpt = input("https://youtu.be/XubacvbjuQ8")
 
-inpt2 = float(input("Enter refresh rate(seconds): "))
+inpt2 = float(input("Enter refresh rate(seconds):100 "))
 
-inp4 = int(input("Enter views: "))
+inp4 = int(input("Enter views:10000 "))
 
 print("Working...")
 
